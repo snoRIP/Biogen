@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/ca9e95a2-15c2-4cdf-81d9-83e7402c907e
 #  Bio-Gen Pro: Evolutionary Neural Laboratory
 
 Welcome to **Bio-Gen Pro**, a high-performance evolutionary simulation where agents with neural network brains survive, reproduce, and evolve in a dynamic environment.
