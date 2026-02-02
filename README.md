@@ -1,8 +1,10 @@
-# 🧪 Bio-Gen Pro: Evolutionary Neural Laboratory
+
+https://github.com/user-attachments/assets/ca9e95a2-15c2-4cdf-81d9-83e7402c907e
+#  Bio-Gen Pro: Evolutionary Neural Laboratory
 
 Welcome to **Bio-Gen Pro**, a high-performance evolutionary simulation where agents with neural network brains survive, reproduce, and evolve in a dynamic environment.
 
-## 🚀 Features
+##  Features
 - **Neural Evolution:** Every agent has a brain (Neural Network) that processes senses and controls movement.
 - **Genetic DNA:** Traits like speed, sense radius, and aggression are passed to offspring with mutations.
 - **Scientific Cyberpunk UI:** Real-time performance profiling, population analytics, and neural core inspection.
@@ -10,7 +12,7 @@ Welcome to **Bio-Gen Pro**, a high-performance evolutionary simulation where age
 
 ---
 
-## 🛠 Project Structure
+##  Project Structure
 The project is organized into a clean, modular architecture:
 
 - **`core/`**: The "heart" of the simulation.
@@ -30,10 +32,10 @@ The project is organized into a clean, modular architecture:
 
 ---
 
-## 🚦 How to Run
+##  How to Run
 
 ### 1. Prerequisites
-Ensure you have Python 3.8+ installed. You will need the `pygame` library.
+Ensure you have Python 3.+ installed. You will need the `pygame` library.
 
 ```bash
 pip install -r requirements.txt
@@ -56,7 +58,7 @@ python main.py
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 To verify the core logic, run the test suite:
 
 ```bash
@@ -65,9 +67,13 @@ python -m unittest tests/test_simulation.py
 
 ---
 
-## 🧬 Archetypes
+##  Archetypes
 - **Gatherers (Green):** Focused on survival and efficient resource gathering.
 - **Hunters (Red):** Predatory agents that attack others when hungry.
 - **Explorers (Purple):** Fast-moving agents with high exploration drive.
 
 Enjoy your research in the Bio-Gen Pro Laboratory!
+
+
+https://github.com/user-attachments/assets/7befc9ce-38f2-4764-9df3-db2809892ac7
+
